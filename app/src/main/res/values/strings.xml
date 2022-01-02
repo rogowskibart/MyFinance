@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFinance</string>
+    <string name="add_expense">Add expense</string>
+    <string name="hint_amount">Amount...</string>
+    <string name="hint_place">Place...</string>
+    <string name="hint_date">Date...</string>
+    <string name="hint_category">Category...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Expense not saved because some fields are empty.</string>
+</resources>
